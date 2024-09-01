@@ -1,0 +1,99 @@
+[ 
+
+  { 
+
+    "product_id": "P001", 
+
+    "review_id": "1", 
+
+    "review_text": "I love this product! It exceeded my expectations and is of great quality.", 
+
+    "expected_sentiment": "positive" 
+
+  }, 
+
+  { 
+
+    "product_id": "P001", 
+
+    "review_id": "2", 
+
+    "review_text": "The product is okay, but it could be better. The features are not as advertised.", 
+
+    "expected_sentiment": "neutral" 
+
+  }, 
+
+  { 
+
+    "product_id": "P002", 
+
+    "review_id": "3", 
+
+    "review_text": "I am really disappointed with this purchase. The item broke within a week, and the customer service was terrible.", 
+
+    "expected_sentiment": "negative" 
+
+  }, 
+
+  { 
+
+    "product_id": "P002", 
+
+    "review_id": "4", 
+
+    "review_text": "The design is nice, but the product is a bit overpriced. I would suggest more value for the money.", 
+
+    "expected_sentiment": "neutral" 
+
+  }, 
+
+  { 
+
+    "product_id": "P003", 
+
+    "review_id": "5", 
+
+    "review_text": "Absolutely fantastic! This is exactly what I was looking for. Highly recommend to everyone.", 
+
+    "expected_sentiment": "positive" 
+
+  }, 
+
+   { 
+
+    "product_id": "P004", 
+
+    "review_id": "7", 
+
+    "review_text": "Not what I expected. The quality is mediocre and does not match the description.", 
+
+    "expected_sentiment": "negative" 
+
+  }, 
+
+  { 
+
+    "product_id": "P004", 
+
+    "review_id": "8", 
+
+    "review_text": "This product is decent for the price. It gets the job done, but there are better options available.", 
+
+    "expected_sentiment": "neutral" 
+
+  }, 
+
+  { 
+
+    "product_id": "P005", 
+
+    "review_id": "9", 
+
+    "review_text": "I’m very pleased with this purchase. It performs exceptionally well and is worth the price.", 
+
+    "expected_sentiment": "positive" 
+
+  } 
+
+] 
